@@ -2,6 +2,8 @@
 
 An engaging Python-based Word Search Game featuring an interactive GUI and AI opponent. Challenge yourself against the computer in this classic word-finding puzzle with a modern twist!
 
+> 🎓 This game was developed as my first Python project for the Programming Course (First Term) at university.
+
 ## 🌟 Features
 
 - **Interactive GUI**: Clean and user-friendly interface built with Tkinter
